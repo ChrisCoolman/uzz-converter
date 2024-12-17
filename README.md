@@ -1,4 +1,4 @@
-# uzz-converter
+# THE UZZ CONVERTER
 This program converts words to uzz using python
 
 ## How to use
