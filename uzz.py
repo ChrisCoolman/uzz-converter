@@ -5,7 +5,7 @@ wordList = list(word.strip())
 resultList = []
 uzz_added = False  # Flag to indicate if "uzz" has been added
 
-blockers = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z']
+blockers = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z']
 
 for i in range(len(wordList)):
     if uzz_added:
